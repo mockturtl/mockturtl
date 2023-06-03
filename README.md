@@ -3,7 +3,7 @@
 [![dotenv](https://github-readme-stats.vercel.app/api/pin/?username=mockturtl&repo=dotenv)](https://github.com/mockturtl/dotenv)
 [![cinnamon-spices-applets](https://github-readme-stats.vercel.app/api/pin/?username=linuxmint&repo=cinnamon-spices-applets)](https://github.com/linuxmint/cinnamon-spices-applets)
 [![tidy](https://github-readme-stats.vercel.app/api/pin/?username=mockturtl&repo=tidy)](https://github.com/mockturtl/tidy)
-[![dab](https://github-readme-stats.vercel.app/api/pin/?username=mockturtl&repo=dab)](https://github.com/mockturtl/dab)
+[![deft](https://github-readme-stats.vercel.app/api/pin/?username=mockturtl&repo=deft)](https://github.com/mockturtl/deft)
 
 
 
